@@ -1,5 +1,10 @@
 # Project Name
+Lending Club Case Study - by Ritwik Raj and Ritesh Kumar
 > Outline a brief description of your project.
+
+Our objective is to leverage historical loan data to identify patterns that predict loan default risk . By developing an understanding of the key factors that influence default , we can significantly improve our risk assessment strategies . 
+
+The path includes analysing applicants and loan attributes , aiming to uncover hidden trends that differentiate between responsible borrowers and those likely to default.  Equipped with these insights, we can make data-driven decisions regarding loan approvals, terms, and portfolio management.  
 
 
 ## Table of Contents
