@@ -15,16 +15,16 @@ The path includes analysing applicants and loan attributes , aiming to uncover h
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information:
+## General Information
 ### Project General Information
 This project aims to use Exploratory Data Analysis (EDA) to identify the factors that influence loan defaults in an online loan marketplace. The company provides various loans, and identifying risky applicants is crucial to minimizing financial losses.
-### Project Background:
+### Project Background
 The background of this project revolves around the need to manage and mitigate the risk of loan defaults in an online lending platform. By analyzing historical loan data, the project aims to identify key indicators of default and develop strategies to reduce credit losses. The insights gained from this analysis will help the company make informed decisions, improve its loan approval process, and enhance its risk management practices.
-### Business probem which we are trying to solve:
+### Business problem which we are trying to solve
 The business problem at the core of this project is to minimize the risk of financial losses due to loan defaults by identifying and understanding the factors that contribute to borrower risk. By leveraging Exploratory Data Analysis (EDA) and predictive modeling, the company aims to improve its risk assessment capabilities, optimize its loan portfolio, and enhance overall profitability.
-### Dataset:
+### Dataset
 The dataset used in this project contains historical loan data from a consumer finance company that specializes in lending various types of loans to urban customers. The dataset includes information about past loan applicants, their profiles, loan characteristics, and the loan repayment status. This data is crucial for analyzing patterns and identifying factors that contribute to loan defaults.
-### Key Characteristics of the Dataset:
+### Key Characteristics of the Dataset
 - Time Period: The dataset covers loans issued over the time period from 2007 to 2011.
 - Loan Information: Includes details such as loan amount, interest rate, installment amount, loan term, and loan purpose.
 - Borrower Information: Contains demographic and financial information about the borrowers, including employment length, annual income, home ownership status, and debt-to-income ratio.
