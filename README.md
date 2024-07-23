@@ -50,7 +50,7 @@ Through various visualizations and statistical analyses, we have uncovered signi
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-This project was inspired by UpGrad and IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
+This project was inspired by UpGrad and IIITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
 
 
 ## Contact
